@@ -1,0 +1,2 @@
+1.Crie as tabelas com os comandos do arquivos tabelas.sql
+2.faça a carga dos dados no arquivo categorias.csv
